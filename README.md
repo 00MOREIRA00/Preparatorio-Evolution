@@ -28,3 +28,21 @@ Resumidamente os interessados em participar da prova irão acessar o site e pree
   <li>RQ04- Possibilitar que o pessoal do setor responsável possa acessar os dados através da área restrita.</li>
   <li>RQ05 – Possibilitar que o pessoal do setor responsável possa tratar os dados, editando e excluindo se necessário.</li>
 </lu>
+
+<br>
+
+<h3>Como Funciona?</h3>
+<hr>
+<p>Os interessados em fazer o bolsão podem entrar na página da instituição para ver além de ver as novidades, fazerem sua inscrição preenchendo o formulario com as informações basicas, informaçõés que serão salvas em nosso Banco de Dados.
+</p>
+
+![Cadastrando](https://user-images.githubusercontent.com/85044936/161387593-160e5999-3800-40fc-a1f0-9ac271ad08ca.gif)
+
+<br>
+
+<p>Os funcionarios responsaveis pelas inscrições tem acesso a Area Restrita pela página da instituição, onde conseguem ver as inscrições e proceder com o tramete de confirmação e de marcar data e horário para a avaliação</p>
+
+![Consulta Cadastro](https://user-images.githubusercontent.com/85044936/161387870-1a3f42c1-7f3a-40ae-8362-ba81ba9bcd67.gif)
+
+
+
