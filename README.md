@@ -33,30 +33,30 @@ Resumidamente os interessados em participar da prova irão acessar o site e pree
 
 <h3>Como Funciona?</h3>
 <hr>
-<p>Os interessados em fazer o bolsão podem entrar na página da instituição para ver além de ver as novidades, fazerem sua inscrição preenchendo o formulario com as informações basicas, informaçõés que serão salvas em nosso Banco de Dados.
+<p>Os interessados em fazer o bolsão podem entrar na página da instituição para ver além de ver as novidades, fazerem sua inscrição preenchendo o formulário com as informações básicas, informações que serão salvas em nosso Banco de Dados.
 </p>
 
 ![Cadastrando](https://user-images.githubusercontent.com/85044936/161387593-160e5999-3800-40fc-a1f0-9ac271ad08ca.gif)
 
 <br>
 
-<p>Os funcionarios responsaveis pelas inscrições tem acesso a Area Restrita pela página da instituição, onde conseguem ver as inscrições e proceder com o tramete de confirmação e de marcar data e horário para a avaliação</p>
+<p>Os funcionários responsáveis pelas inscrições tem acesso a Área Restrita pela página da instituição, onde conseguem ver as inscrições e proceder com o tramete de confirmação e de marcar data e horário para a avaliação</p>
 
 ![Consulta Cadastro](https://user-images.githubusercontent.com/85044936/161387937-8d193cff-1f5a-4548-b133-69158e96fc0d.gif)
 
 <br>
 
 
-<p>Ao estarem cadastrados os funcionarios poderão tratar os dados, os editando e excluindo se necessarios.</p>
+<p>Ao estarem cadastrados os funcionários poderão tratar os dados, os editando e excluindo se necessários. </p>
 
 ![Tratando os dados](https://user-images.githubusercontent.com/85044936/161388059-7abdb1e9-3e27-4330-b20a-c4feffdfe416.gif)
 
 <br>
 
-<h3>Sobre o Bnaco de Dados</h3>
+<h3>Sobre o Banco de Dados</h3>
 <hr>
 
-O Bando de Dados foi feito com em Mysql utilizando MySQL Workbench utulizando o XAMP para dar start no Apache e no proprio Mysql.
+O Bando de Dados foi feito com em Mysql utilizando MySQL Workbench utilizando o XAMP para dar start no Apache e no próprio Mysql.
 <br>
 
 ![Banco de Dados](https://user-images.githubusercontent.com/85044936/161393920-0473e6ee-32d8-4a39-83be-ea80f447a67c.gif)
@@ -71,4 +71,5 @@ O Bando de Dados foi feito com em Mysql utilizando MySQL Workbench utulizando o 
 
 
 <h3>Considerações Finais</h3>
-<p>A aplicação foi desenvolcida com Html, Css, PhP e utilizando o Xamp para o Banco de Dados, com a utilização do Apache e Mysql. Ao final dele consegui entregar o que foi solicitado e realizou as atividades pelo qual foi projetado. No desenvolvimento algumas deficuldades apareceram na parte do tratamento das informações, por exemplo a edição e exclusão dos dados de usuários por parte do funcionário da instituição, porem foi tudo resolvido.</p>
+<hr>
+<p>A aplicação foi desenvolvida com Html, Css, PhP e utilizando o Xamp para o Banco de Dados, com a utilização do Apache e Mysql. Ao final dele consegui entregar o que foi solicitado e realizou as atividades pelo qual foi projetado. No desenvolvimento algumas dificuldades apareceram na parte do tratamento das informações, por exemplo a edição e exclusão dos dados de usuários por parte do funcionário da instituição, porem foi tudo resolvido.</p>
