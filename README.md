@@ -70,3 +70,5 @@ O Bando de Dados foi feito com em Mysql utilizando MySQL Workbench utulizando o 
 ![Formularios Enviados e Salvos](https://user-images.githubusercontent.com/85044936/161393775-1571533e-ca80-450d-a066-67c19e0f2650.png)
 
 
+<h3>Considerações Finais</h3>
+<p>A aplicação foi desenvolcida com Html, Css, PhP e utilizando o Xamp para o Banco de Dados, com a utilização do Apache e Mysql. Ao final dele consegui entregar o que foi solicitado e realizou as atividades pelo qual foi projetado. No desenvolvimento algumas deficuldades apareceram na parte do tratamento das informações, por exemplo a edição e exclusão dos dados de usuários por parte do funcionário da instituição, porem foi tudo resolvido.</p>
