@@ -1,0 +1,28 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-image: linear-gradient(to right, rgb(0,191,255), rgb(127,255,212));
+	text-align: center;
+	color: white;
+}
+
+.caixa{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: rgb(0, 0, 0, 0.6);
+	padding: 30px;
+	width: 400px;
+}
+
+.link{
+	text-decoration: none;
+	color: white;
+	border: 3px solid dodgerblue;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+.link:hover{
+	background-image: linear-gradient(to right, rgb(0,191,255), rgb(127,255,212));
+}
