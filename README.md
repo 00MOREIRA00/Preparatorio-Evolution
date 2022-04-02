@@ -42,7 +42,17 @@ Resumidamente os interessados em participar da prova irão acessar o site e pree
 
 <p>Os funcionarios responsaveis pelas inscrições tem acesso a Area Restrita pela página da instituição, onde conseguem ver as inscrições e proceder com o tramete de confirmação e de marcar data e horário para a avaliação</p>
 
-![Consulta Cadastro](https://user-images.githubusercontent.com/85044936/161387870-1a3f42c1-7f3a-40ae-8362-ba81ba9bcd67.gif)
+![Consulta Cadastro](https://user-images.githubusercontent.com/85044936/161387937-8d193cff-1f5a-4548-b133-69158e96fc0d.gif)
+
+<br>
+
+
+<p>Ao estarem cadastrados os funcionarios poderão tratar os dados, os editando e excluindo se necessarios.</p>
+
+![Tratando os dados](https://user-images.githubusercontent.com/85044936/161388059-7abdb1e9-3e27-4330-b20a-c4feffdfe416.gif)
+
+
+
 
 
 
